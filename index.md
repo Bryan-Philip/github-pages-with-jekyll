@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my new blog"
+title: "Classic Autogarage"
 ---
 
 I'm glad you are here. I plan to talk about ...
